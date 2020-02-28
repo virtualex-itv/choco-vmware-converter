@@ -12,4 +12,4 @@ Chocolatey package for vmware-converter
 
 ---
 
-![ChocoTestEnvInstall]()
+![ChocoTestEnvInstall](https://rawcdn.githack.com/virtualex-itv/choco-vmware-converter/4f24f0f11b5e47f6101f5be69a3031f3a7c42f89/_img/choco-vmwconv-test.png)
