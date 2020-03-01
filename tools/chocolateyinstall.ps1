@@ -2,7 +2,7 @@ $ErrorActionPreference	= 'Stop';
 $toolsDir	= "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageName	= 'VMware vCenter Converter Standalone*'
 $fileType	= 'exe'
-$url	= 'http://dl.filehorse.com/win/developer-tools/vmware-vcenter-converter/VMware-converter-en-6.2.0-8466193.exe?st=gqnk_jVg4PTpjucVy-fqHA&e=1582979715&fn=VMware-converter-en-6.2.0-8466193.exe'
+$url	= 'https://slc.lo4d.com/files/vmware-vcenter-converter-standalone/VMware-converter-en-6.2.0-8466193.exe'
 $url64bit	= $url
 $softwareName	= 'VMware vCenter Converter Standalone*'
 $checksum	= 'CA4FD6ECB0BE2EE7D96485D16325B79FBFE0AF46E94180D2899727AC99A56EA3'
